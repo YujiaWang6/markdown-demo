@@ -15,7 +15,7 @@ need blank line
 
 
 
-
+#for Headings
 
 Hello.
 
@@ -31,6 +31,8 @@ Hello.
 
 ## Text Formatting
 
+one * for italic text, two * for bold text, three * for both
+
 This paragraph has some *italics text* and **bold text**. This text is ***bold and italics***
 
 
@@ -45,10 +47,16 @@ This is an ordered list:
     
 3. number 3 item
 
+ordered list need 1. 2. 3.
+
+
 
 This is a bullted list:
 - Item 1
 - Item 2
+
+bullted list need -
+
 
 ## Links
 
