@@ -31,6 +31,6 @@ Hello.
 
 ## Text Formatting
 
-**This paragraph** has some *italics text*
+This paragraph has some *italics text* and **bold text**. This text is ***bold and italics***
 
 
