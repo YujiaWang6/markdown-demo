@@ -70,4 +70,6 @@ link inside [] are the name shown in readme. link inside () are the actrually li
 
 ![logo](http://codeadam.ca/images/code-block.png)
 
+![image](https://github.com/YujiaWang6/SeasonAPP/blob/master/seasonIMG/fall.JPG)
+
 <img src="http://codeadam.ca/images/code-block.png" width="200">
