@@ -70,7 +70,6 @@ link inside [] are the name shown in readme. link inside () are the actrually li
 
 Images will be displayed 100% of their width to a maximum of 100% of its width
 
-![logo](http://codeadam.ca/images/code-block.png)
 
 ![image](https://github.com/YujiaWang6/SeasonAPP/blob/master/seasonIMG/fall.JPG)
 
@@ -93,3 +92,11 @@ console.log("test")
 ``` javascript
 console.log("JS");
 ```
+
+
+## Tables
+
+Heading 1 | Heading 2 | Heading 3
+-|-|-
+Value 1| Value 2| Value 3
+Value 4 | Value 5 | Value 6
