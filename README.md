@@ -64,3 +64,8 @@ This is a link to my website:
 [google.ca](https://google.ca)
 
 link inside [] are the name shown in readme. link inside () are the actrually link
+
+
+## Images
+
+![logo](http://codeadam.ca/images/code-block.png)
