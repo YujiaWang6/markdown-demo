@@ -74,4 +74,6 @@ Images will be displayed 100% of their width to a maximum of 100% of its width
 
 ![image](https://github.com/YujiaWang6/SeasonAPP/blob/master/seasonIMG/fall.JPG)
 
+![img](https://github.com/YujiaWang6/SeasonAPP/blob/master/seasonIMG/fall.JPG?raw=true)
+
 <img src="http://codeadam.ca/images/code-block.png" width="200">
