@@ -69,3 +69,5 @@ link inside [] are the name shown in readme. link inside () are the actrually li
 ## Images
 
 ![logo](http://codeadam.ca/images/code-block.png)
+
+<img src="http://codeadam.ca/images/code-block.png" width="200">
