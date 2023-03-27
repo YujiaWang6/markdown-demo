@@ -43,4 +43,9 @@ This is an ordered list:
 
     some more instruction
     
-4. number 4 item
+3. number 3 item
+
+
+This is a bullted list:
+- Item 1
+- Item 2
