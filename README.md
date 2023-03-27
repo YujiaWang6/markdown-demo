@@ -104,4 +104,4 @@ Value 4 | Value 5 | Value 6
 
 ## Other Stuff
 
-> This is hightlights!
+> This is hightlighted!
