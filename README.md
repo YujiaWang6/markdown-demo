@@ -85,6 +85,6 @@ Images will be displayed 100% of their width to a maximum of 100% of its width
 
 You can add inline 'code' using a single tic. or multiples link of code using three tics.
 
-''' javascript
+``` javascript
 console.log("JS");
-'''
+```
