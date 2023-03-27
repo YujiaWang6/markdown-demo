@@ -34,3 +34,13 @@ Hello.
 This paragraph has some *italics text* and **bold text**. This text is ***bold and italics***
 
 
+## Lists
+
+This is an ordered list:
+
+1. number 1 item.
+2. number 2 item.
+
+    some more instruction
+    
+4. number 4 item
