@@ -96,7 +96,7 @@ console.log("JS");
 
 ## Tables
 
-Heading 1 | Heading 2 | Heading 3
+Heading 1 | Heading 2 | Heading 3 
 -|-|-
 Value 1| Value 2| Value 3
 Value 4 | Value 5 | Value 6
