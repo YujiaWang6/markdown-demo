@@ -28,3 +28,7 @@ Hello.
 ##### Heading 5
 
 ###### Heading 6
+
+## Text Formatting
+
+This paragraph has some *bold text
