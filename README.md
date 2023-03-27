@@ -31,4 +31,4 @@ Hello.
 
 ## Text Formatting
 
-This paragraph has some *bold text
+This paragraph has some *italics text*
