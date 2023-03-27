@@ -49,3 +49,8 @@ This is an ordered list:
 This is a bullted list:
 - Item 1
 - Item 2
+
+## Links
+
+This is a link to my website:
+[google.ca](https://google.com)
