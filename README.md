@@ -107,3 +107,5 @@ Value 4 | Value 5 | Value 6
 > This is hightlighted!
 
 > **Warning**
+
+> **Note**
