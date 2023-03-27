@@ -1,4 +1,8 @@
-# markdown-demo
+# Main Heading - markdown-demo
+
+Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
+
+## Paragraphs
 
 This is a paragraph.
 
@@ -9,9 +13,18 @@ need blank line
 
 
 
-# heading
 
-## 2
-## heading
+
+
 
 Hello.
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
