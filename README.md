@@ -53,4 +53,4 @@ This is a bullted list:
 ## Links
 
 This is a link to my website:
-[google.ca](https://google.com)
+[google.ca](https://google.ca)
